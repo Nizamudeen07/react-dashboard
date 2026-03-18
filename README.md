@@ -1,4 +1,4 @@
-# AdminPulse
+# AdminDashboard
 
 A responsive admin dashboard built with React, Vite, Tailwind CSS, React Router, TanStack Query, and Axios.
 
